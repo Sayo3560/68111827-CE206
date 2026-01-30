@@ -1,0 +1,14 @@
+C:\Users\STUDENT\source\repos\Day\bin\Debug\net10.0\Day.exe
+C:\Users\STUDENT\source\repos\Day\bin\Debug\net10.0\Day.deps.json
+C:\Users\STUDENT\source\repos\Day\bin\Debug\net10.0\Day.runtimeconfig.json
+C:\Users\STUDENT\source\repos\Day\bin\Debug\net10.0\Day.dll
+C:\Users\STUDENT\source\repos\Day\bin\Debug\net10.0\Day.pdb
+C:\Users\STUDENT\source\repos\Day\obj\Debug\net10.0\Day.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\source\repos\Day\obj\Debug\net10.0\Day.AssemblyInfoInputs.cache
+C:\Users\STUDENT\source\repos\Day\obj\Debug\net10.0\Day.AssemblyInfo.cs
+C:\Users\STUDENT\source\repos\Day\obj\Debug\net10.0\Day.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\source\repos\Day\obj\Debug\net10.0\Day.dll
+C:\Users\STUDENT\source\repos\Day\obj\Debug\net10.0\refint\Day.dll
+C:\Users\STUDENT\source\repos\Day\obj\Debug\net10.0\Day.pdb
+C:\Users\STUDENT\source\repos\Day\obj\Debug\net10.0\Day.genruntimeconfig.cache
+C:\Users\STUDENT\source\repos\Day\obj\Debug\net10.0\ref\Day.dll

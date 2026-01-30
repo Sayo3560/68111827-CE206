@@ -1,0 +1,14 @@
+C:\Users\STUDENT\source\repos\score\bin\Debug\net10.0\score.exe
+C:\Users\STUDENT\source\repos\score\bin\Debug\net10.0\score.deps.json
+C:\Users\STUDENT\source\repos\score\bin\Debug\net10.0\score.runtimeconfig.json
+C:\Users\STUDENT\source\repos\score\bin\Debug\net10.0\score.dll
+C:\Users\STUDENT\source\repos\score\bin\Debug\net10.0\score.pdb
+C:\Users\STUDENT\source\repos\score\obj\Debug\net10.0\score.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\source\repos\score\obj\Debug\net10.0\score.AssemblyInfoInputs.cache
+C:\Users\STUDENT\source\repos\score\obj\Debug\net10.0\score.AssemblyInfo.cs
+C:\Users\STUDENT\source\repos\score\obj\Debug\net10.0\score.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\source\repos\score\obj\Debug\net10.0\score.dll
+C:\Users\STUDENT\source\repos\score\obj\Debug\net10.0\refint\score.dll
+C:\Users\STUDENT\source\repos\score\obj\Debug\net10.0\score.pdb
+C:\Users\STUDENT\source\repos\score\obj\Debug\net10.0\score.genruntimeconfig.cache
+C:\Users\STUDENT\source\repos\score\obj\Debug\net10.0\ref\score.dll

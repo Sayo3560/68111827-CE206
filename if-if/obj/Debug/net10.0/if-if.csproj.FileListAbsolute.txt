@@ -1,0 +1,14 @@
+C:\Users\STUDENT\source\repos\if-if\bin\Debug\net10.0\if-if.exe
+C:\Users\STUDENT\source\repos\if-if\bin\Debug\net10.0\if-if.deps.json
+C:\Users\STUDENT\source\repos\if-if\bin\Debug\net10.0\if-if.runtimeconfig.json
+C:\Users\STUDENT\source\repos\if-if\bin\Debug\net10.0\if-if.dll
+C:\Users\STUDENT\source\repos\if-if\bin\Debug\net10.0\if-if.pdb
+C:\Users\STUDENT\source\repos\if-if\obj\Debug\net10.0\if-if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\source\repos\if-if\obj\Debug\net10.0\if-if.AssemblyInfoInputs.cache
+C:\Users\STUDENT\source\repos\if-if\obj\Debug\net10.0\if-if.AssemblyInfo.cs
+C:\Users\STUDENT\source\repos\if-if\obj\Debug\net10.0\if-if.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\source\repos\if-if\obj\Debug\net10.0\if-if.dll
+C:\Users\STUDENT\source\repos\if-if\obj\Debug\net10.0\refint\if-if.dll
+C:\Users\STUDENT\source\repos\if-if\obj\Debug\net10.0\if-if.pdb
+C:\Users\STUDENT\source\repos\if-if\obj\Debug\net10.0\if-if.genruntimeconfig.cache
+C:\Users\STUDENT\source\repos\if-if\obj\Debug\net10.0\ref\if-if.dll

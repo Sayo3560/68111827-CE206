@@ -1,0 +1,14 @@
+C:\Users\STUDENT\source\repos\IF ELSE\bin\Debug\net10.0\IF ELSE.exe
+C:\Users\STUDENT\source\repos\IF ELSE\bin\Debug\net10.0\IF ELSE.deps.json
+C:\Users\STUDENT\source\repos\IF ELSE\bin\Debug\net10.0\IF ELSE.runtimeconfig.json
+C:\Users\STUDENT\source\repos\IF ELSE\bin\Debug\net10.0\IF ELSE.dll
+C:\Users\STUDENT\source\repos\IF ELSE\bin\Debug\net10.0\IF ELSE.pdb
+C:\Users\STUDENT\source\repos\IF ELSE\obj\Debug\net10.0\IF ELSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\source\repos\IF ELSE\obj\Debug\net10.0\IF ELSE.AssemblyInfoInputs.cache
+C:\Users\STUDENT\source\repos\IF ELSE\obj\Debug\net10.0\IF ELSE.AssemblyInfo.cs
+C:\Users\STUDENT\source\repos\IF ELSE\obj\Debug\net10.0\IF ELSE.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\source\repos\IF ELSE\obj\Debug\net10.0\IF ELSE.dll
+C:\Users\STUDENT\source\repos\IF ELSE\obj\Debug\net10.0\refint\IF ELSE.dll
+C:\Users\STUDENT\source\repos\IF ELSE\obj\Debug\net10.0\IF ELSE.pdb
+C:\Users\STUDENT\source\repos\IF ELSE\obj\Debug\net10.0\IF ELSE.genruntimeconfig.cache
+C:\Users\STUDENT\source\repos\IF ELSE\obj\Debug\net10.0\ref\IF ELSE.dll
